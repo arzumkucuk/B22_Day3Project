@@ -6,6 +6,5 @@ public class Main {
         // B22 is excited!
         // B22 is decided!
         // B22 is sucsessful testers
-        // b=tamam
     }
 }

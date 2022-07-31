@@ -6,10 +6,10 @@ public class Main {
         // B22 is excited!
         // B22 is decided!
         // B22 is sucsessful testers
-<<<<<<<<< Temporary merge branch 1
+//<<<<<<<<< Temporary merge branch 1
         // b=tamam
-=========
+//=========
         // bjsdfbf
->>>>>>>>> Temporary merge branch 2
+//>>>>>>>>> Temporary merge branch 2
     }
 }
